@@ -1,0 +1,9 @@
+build/
+out/
+.vs/
+*.user
+*.aps
+tools/
+.private/
+third_party/7zip-26.05/CPP/7zip/Bundles/Format7zF/x64/
+third_party/7zip-26.05/CPP/7zip/Bundles/Format7zF/x86/
